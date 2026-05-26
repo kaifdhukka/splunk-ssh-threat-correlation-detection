@@ -112,3 +112,23 @@ The correlation engine successfully detected:
 ## Key Outcome
 
 Successfully engineered and validated a Splunk-based multi-stage SSH threat detection pipeline capable of identifying brute-force compromise patterns in real-time.
+
+
+---
+
+## Project Screenshots
+
+### Full Dashboard
+![Dashboard](./dashboard-full.png)
+
+### Top Attacking IPs
+![Top Attacking IPs](./top-attacking-ips.png)
+
+### SSH Attack Timeline
+![SSH Timeline](./ssh-timeline.png)
+
+### Authentication Correlation
+![Authentication Correlation](./authentication-correlation.png)
+
+### Targeted Accounts
+![Targeted Accounts](./targeted-accounts.png)
